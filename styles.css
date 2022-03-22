@@ -38,3 +38,9 @@ button {
   font-weight: 800;
   color: #333;
 }
+@media (max-width: 768px) {
+  main {
+    width: 250px;
+    font-size: 20px;
+  }
+}
