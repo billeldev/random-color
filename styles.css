@@ -40,7 +40,7 @@ button {
 }
 @media (max-width: 768px) {
   main {
-    width: 250px;
+    width: 280px;
     font-size: 20px;
   }
 }
